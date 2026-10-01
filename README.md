@@ -9,16 +9,9 @@ CARA INSTALASI CEPAT
    sql/db_rental_buku.sql
 3. Pastikan folder "uploads/" dan sub-foldernya bisa ditulis (writable)
 4. Buka http://localhost/rental/
-
-MENAMBAH AKUN ADMIN BARU
-------------------------
-Buka file TAMBAH_ADMIN.sql, salin salah satu perintah SQL di dalamnya,
-lalu jalankan di phpMyAdmin > tab SQL. Login default yang disediakan:
-
+   
     Email    : admin@tokokata.com
     Password : admin123
-
-(Segera ganti password setelah login pertama.)
 
 STRUKTUR FOLDER
 ---------------
