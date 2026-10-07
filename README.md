@@ -11,7 +11,7 @@ CARA INSTALASI CEPAT
 4. Buka http://localhost/rental/
    
     Email    : admin@tokokata.com
-    Password : admin12344
+    Password : passwordadmin123
 
 STRUKTUR FOLDER
 ---------------
